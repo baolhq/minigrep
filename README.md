@@ -1,3 +1,3 @@
 # minigrep
 
-> Just following the Rust book to make a simple CLI app
+> Just getting started to learn Rust, enjoying it so far 😇
